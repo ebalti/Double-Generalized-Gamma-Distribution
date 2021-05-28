@@ -5,7 +5,7 @@ E. Balti and B. K. Johnson, "[Tractable Approach to MmWaves Cellular Analysis Wi
 
 E. Balti and M. Guizani, "[Mixed RF/FSO Cooperative Relaying Systems With Co-Channel Interference](https://ieeexplore.ieee.org/document/8323414)," in IEEE Transactions on Communications, vol. 66, no. 9, pp. 4014-4027, Sept. 2018
 
-The package contains a simulation environment, based on Matlab, that reproduces the analytical and Monte Carlo simulation of Double Generalized Gamma distribution.
+The package contains a simulation environment, based on Matlab, that reproduces the analytical and Monte Carlo simulations of Double Generalized Gamma distribution.
 
 # Content of Code Package
 This package contains 3 files:

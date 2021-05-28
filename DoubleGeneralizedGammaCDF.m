@@ -44,5 +44,4 @@ bm=[Delta(q,m1) Delta(p,m2)];
 bq=[0];
 M=meijerG( an, ap, bm, bq, z );
 output = C*M;
-
 end

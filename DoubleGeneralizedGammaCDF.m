@@ -1,4 +1,3 @@
-function output = DoubleGeneralizedGammaCDF(m1,m2,p,q,a1,a2,x)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % DoubleGeneralizedGammaCDF.m 
 %
@@ -34,7 +33,7 @@ function output = DoubleGeneralizedGammaCDF(m1,m2,p,q,a1,a2,x)
 % Y: large scale fluctuations
 % I: optical irradiance (atmospheric turbulences)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+function output = DoubleGeneralizedGammaCDF(m1,m2,p,q,a1,a2,x)
 omega1 = (gamma(m1)/gamma(m1+1/a1))^a1 *m1;
 omega2 = (gamma(m2)/gamma(m2+1/a2))^a2 *m2;
 C = p^(m2-1/2) * q^(m1-1/2) * (2*pi)^(1 - (p+q)/2) / (gamma(m1)*gamma(m2));

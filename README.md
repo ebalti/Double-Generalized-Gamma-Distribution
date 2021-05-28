@@ -1,9 +1,9 @@
 # Double Generalized Gamma Distribution
 This is a code package related to the follow scientific articles: 
 
-E. Balti and B. K. Johnson, "Tractable Approach to MmWaves Cellular Analysis With FSO Backhauling Under Feedback Delay and Hardware Limitations," in IEEE Transactions on Wireless Communications, vol. 19, no. 1, pp. 410-422, Jan. 2020
+E. Balti and B. K. Johnson, "[Tractable Approach to MmWaves Cellular Analysis With FSO Backhauling Under Feedback Delay and Hardware Limitations](https://ieeexplore.ieee.org/document/8879690)," in IEEE Transactions on Wireless Communications, vol. 19, no. 1, pp. 410-422, Jan. 2020
 
-E. Balti and M. Guizani, "Mixed RF/FSO Cooperative Relaying Systems With Co-Channel Interference," in IEEE Transactions on Communications, vol. 66, no. 9, pp. 4014-4027, Sept. 2018
+E. Balti and M. Guizani, "[Mixed RF/FSO Cooperative Relaying Systems With Co-Channel Interference](https://ieeexplore.ieee.org/document/8323414)," in IEEE Transactions on Communications, vol. 66, no. 9, pp. 4014-4027, Sept. 2018
 
 The package contains a simulation environment, based on Matlab, that reproduces the analytical and Monte Carlo simulation of Malaga distribution.
 

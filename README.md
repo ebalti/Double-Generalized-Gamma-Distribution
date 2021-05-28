@@ -17,3 +17,7 @@ This package contains 3 files:
 2- "main.m" validates the cumulative distibution function (CDF) by comparing the analytical and Monte Carlo simulations.
 
 See each file for further documentation.
+
+# License and Referencing
+
+This code package is licenced under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original articles listed above.

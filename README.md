@@ -14,7 +14,7 @@ This package contains 3 files:
 
 2- "Delta.m" returns a function to construct the input vectors of Meijer G-function. 
 
-2- "main.m" validates the cumulative distribution function (CDF) by comparing the analytical and Monte Carlo simulations.
+3- "main.m" validates the cumulative distribution function (CDF) by comparing the analytical and Monte Carlo simulations.
 
 See each file for further documentation.
 
